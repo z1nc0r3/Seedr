@@ -1,0 +1,12 @@
+{
+    "ID": "A3D7BD6B-CD11-4DAC-BC97-5ECA3BECA9A6",
+    "ActionKeyword": "sd",
+    "Name": "Seedr",
+    "Description": "Manage your Seedr.cc account through Flow Launcher.",
+    "Author": "z1nc0r3",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/z1nc0r3/Seedr",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
+}
